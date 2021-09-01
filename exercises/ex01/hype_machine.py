@@ -1,5 +1,8 @@
-# TODO: Write docstring here
+"""Hype Machine Porgram"""
 
-# TODO: Initialize __author__ variable here
+__author__ = "730397184"
 
-# TODO: Implement your program logic here
+name: str = input("What is your name? ")
+print(name + " is incredibly cool! ")
+print("Keep working hard " + name + "!")
+print("If you work hard, " + name + ", you will succeed in life. ")
